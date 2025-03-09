@@ -1,1 +1,4 @@
-
+fade
+colorama
+googlesearch-python
+pystyle
