@@ -2,3 +2,6 @@ fade
 colorama
 googlesearch-python
 pystyle
+requests
+bcrypt
+pystyle
