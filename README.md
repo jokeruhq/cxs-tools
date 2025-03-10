@@ -7,6 +7,9 @@
 ```
 pip install -r requirements.txt
 ```
+> [!TIP]
+> Star this repository because we will upload more tools later so stay updated
+ 
 ## 🚀Credits:
 [Bcrypt Cracker](https://github.com/jokeruhq/cxs-tools/blob/main/bcrypt_cracker.py) - [NightKikko](https://github.com/NightKikko)
 
